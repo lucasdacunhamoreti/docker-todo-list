@@ -1,5 +1,5 @@
 # Docker Todo List
-Projeto da [Trybe](https://www.betrybe.com/) - Bloco 19 - Criação e orquestração de containers com Docker.
+> Criação e orquestração de containers com Docker.
 
 ## 💻 Projeto
 
@@ -55,8 +55,3 @@ docker attach docker_todotests_1
   <a href="https://www.linkedin.com/in/lucas-da-cunha-moreti/" target="_blank"><img height="28rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href = "mailto:lucasdacunha00@gmail.com"><img height="28rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<!-- ## 📄 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](#nome-do-projeto)<br> -->
